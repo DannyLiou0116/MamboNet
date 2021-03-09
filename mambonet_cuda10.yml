@@ -1,4 +1,4 @@
-name: salsanext
+name: mambonet
 channels:
   - defaults
 dependencies:
