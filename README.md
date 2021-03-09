@@ -5,8 +5,8 @@
 Ubuntu16.04  
 ROS Kinetic  
 CUDA 10  
-Anaconda
-Geforce RTX 2080
+Anaconda  
+Geforce RTX 2080  
 
 Anaconda 虛擬環境設定
 ===
