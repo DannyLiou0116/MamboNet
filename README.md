@@ -35,7 +35,7 @@ Training
 ```
 git clone https://github.com/DannyLiou0116/MamboNet
 cd MamboNet
-./train.sh -d ../Semantickitti/dataset/ -a salsanext.yml -l logs -c 0
+./train.sh -d ../Semantickitti/dataset/ -a mambonet.yml -l logs -c 0
 ```
 
 Evaluate
