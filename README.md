@@ -43,5 +43,5 @@ Evaluate
 ===
 ```
 conda activate mambonet
-./eval.sh -d ../Semantickitti/dataset/ -p ./pred -m "pretrained model path" -s valid salsanext -c 30
+./eval.sh -d ../Semantickitti/dataset/ -p ./pred -m "pretrained model path" -s valid -n salsanext -c 30
 ```
